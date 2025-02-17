@@ -10,7 +10,7 @@
     <div class="container">
         <h1>Welcome to Mezikko Greeting App</h1>
         <h2> If you see this, you have successfully released a simple greeting App. Congratulations </h2>
-        <label for="name">Enter your name:</label>
+        <label for="name">Enter your name here:</label>
         <input type="text" id="name" placeholder="Your Name">
         <button onclick="displayGreeting()">Show Greeting</button>
         <p id="greeting"></p>
